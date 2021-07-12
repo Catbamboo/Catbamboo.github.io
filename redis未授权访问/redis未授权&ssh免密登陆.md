@@ -84,4 +84,4 @@
 
 `ssh -i id_rsa root@192.168.5.135`
 
-![image-20210701165622742](C:\Users\thinkpad\Desktop\redis未授权访问\images\image13.png)
+![image-20210701165622742](.\images\image13.png)
