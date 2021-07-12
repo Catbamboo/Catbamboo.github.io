@@ -34,7 +34,7 @@ redis以root身份运行
 
 #### 结果未成功
 
-### 靶机为CentOS
+### 靶机：CentOS
 
 #### CentOS安装redis(编译安装)
 
