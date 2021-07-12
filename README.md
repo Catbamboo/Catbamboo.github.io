@@ -9,6 +9,10 @@
 [hydra的安装](./hydra/hydra.md)
 
 [redis未授权漏洞利用]
+
   [redis未授权&ssh免密登陆](./redis未授权访问/redis未授权&ssh免密登陆.md)
+  
   [redis写shell](./redis未授权访问/redis写shell.md)
+  
   [crontab反弹shell](./redis未授权访问/crontab反弹shell.md)
+  
