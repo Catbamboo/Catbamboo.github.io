@@ -15,4 +15,6 @@
   [redis写shell](./redis未授权访问/redis写shell.md)
   
   [crontab反弹shell](./redis未授权访问/crontab反弹shell.md)
+### 漏洞复现文章
+  [CVE-2020-9484](./漏洞详情文章/CVE-2020-9484/CVE-2020-9484.md)
   
