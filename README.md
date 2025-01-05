@@ -20,5 +20,6 @@
   
   [CVE-2021-22205：GitLab命令执行漏洞](./漏洞详情文章/CVE-2021-22205：GitLab命令执行漏洞/CVE-2021-22205.md)
   
+  
   [CVE-2023-46604：Apache ActiveMQ远程代码执行漏洞](./漏洞详情文章/CVE-2023-46604：Apache ActiveMQ远程代码执行漏洞/CVE-2023-46604.md)
   
